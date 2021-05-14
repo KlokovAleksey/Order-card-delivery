@@ -12,6 +12,8 @@
 
 <img width="365" alt="success (1)" src="https://user-images.githubusercontent.com/68289203/118332510-e0c55680-b512-11eb-8270-c3063ba5ad15.png">
 
+Для запуска выполнить команду : ```gradlew clean test```
+
 
 
 
